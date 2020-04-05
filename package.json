@@ -1,0 +1,27 @@
+{
+  "name": "testrepo",
+  "version": "1.0.0",
+  "description": "test repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rongnho1987/testrepo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rongnho1987/testrepo/issues"
+  },
+  "homepage": "https://github.com/rongnho1987/testrepo#readme",
+  "engines": {
+    "node": ">=7.6.0",
+    "npm": ">=4.1.2"
+  },
+  "dependencies": {
+    "express": "3.2.6",
+    "jade": "*"
+  }
+}
